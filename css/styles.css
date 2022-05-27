@@ -1,0 +1,65 @@
+h1, h2, h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 200%;
+  color: #003;
+  background-color: #89FF89;
+}
+
+h2 {
+  font-size: 135%;
+  color: #333;
+  background-color: #E7E77F;
+}
+
+h3 {
+  font-size: 120%;
+  color: #900;
+}
+
+p {
+  font-family: Times, serif;
+  text-align: justify;
+}
+
+strong {
+  color: red;
+}
+
+.note {
+  padding-left: 15px;
+  font-size: 80%;
+  color: white;
+  margin: 10px 0;
+  padding: 5px 10px;
+  border-left-width: 10px;
+  background-color: #999999;
+  width: 50%;
+}
+
+img {
+  height: 250px;
+  margin-left: 10px;
+}
+
+/* стилі для таблиці */
+table {
+  border: 2px solid gray;
+  border-collapse: collapse;
+  background-color: #F0F0FF;
+}
+
+td {
+  border: 1px solid gray;
+  padding: 5px;
+}
+
+#placetabl {
+  float: right;
+  width: 30%;
+  padding-left: 15px;
+  padding-top: 40px;
+}
