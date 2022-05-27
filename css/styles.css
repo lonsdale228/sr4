@@ -6,13 +6,13 @@ h1, h2, h3 {
 h1 {
   font-size: 200%;
   color: #003;
-  background-color: #89FF89;
+  background-color: cyan ;
 }
 
 h2 {
   font-size: 135%;
   color: #333;
-  background-color: #E7E77F;
+  background-color: lightblue ;
 }
 
 h3 {
